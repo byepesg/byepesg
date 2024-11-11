@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A passionate Full Stack developer from Colombia</h3>
+<h3 align="center">A passionate Full Stack developer and Software architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byepesg&label=Profile%20views&color=0e75b6&style=flat" alt="byepesg" /> </p>
 
